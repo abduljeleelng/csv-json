@@ -1,0 +1,25 @@
+{
+  "name": "csv",
+  "version": "1.0.0",
+  "description": "convert csv to json format",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abduljeleelng/csv-json.git"
+  },
+  "keywords": [
+    "csvtojson",
+    "JSON",
+    "CSV",
+    "convertion CSV to JSON Data"
+  ],
+  "author": "abduljeleelng",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abduljeleelng/csv-json/issues"
+  },
+  "homepage": "https://github.com/abduljeleelng/csv-json#readme"
+}
