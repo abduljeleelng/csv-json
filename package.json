@@ -21,5 +21,11 @@
   "bugs": {
     "url": "https://github.com/abduljeleelng/csv-json/issues"
   },
-  "homepage": "https://github.com/abduljeleelng/csv-json#readme"
+  "homepage": "https://github.com/abduljeleelng/csv-json#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "csvtojson": "^2.0.10",
+    "express": "^4.17.1",
+    "lodash": "^4.17.20"
+  }
 }
